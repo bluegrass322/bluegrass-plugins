@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "document-creation",
-      "source": "./document-creation",
+      "source": "./plugins/document-creation",
       "description": "Plugin for creating document"
     }
   ]
