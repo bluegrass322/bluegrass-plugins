@@ -1,0 +1,15 @@
+{
+  "name": "bluegrass-plugins",
+  "description": "Plugins for myself",
+  "owner": {
+    "name": "bluegrass"
+  },
+  "plugins": [
+    {
+      "name": "document-creation",
+      "source": "./document-creation",
+      "description": "Plugin for creating document"
+    }
+  ]
+}
+
